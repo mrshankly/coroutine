@@ -74,7 +74,7 @@ entering here be dragons territory.
 
 static co_stack *co_main;
 static co_stack *co_work;
-static co_stack *stack[(18 + 10) / sizeof(co_stack)];
+static co_stack stack[(18 + 10) / sizeof(co_stack)];
 
 static void fn(void) {
   while (1) {
