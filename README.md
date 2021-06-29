@@ -1,7 +1,7 @@
 # Stackful coroutines for the MSP430
 
 A bare bones coroutine library for the MSP430 microcontroller family
-inspired by [libco](https://byuu.org/library/libco/).
+inspired by [libco](https://github.com/higan-emu/libco).
 
 ## Building
 
